@@ -1,8 +1,8 @@
 # 42
 
 ## Menu
-  -- [Strings](./strings.md)
-  -- [Ponteiros](./ponteiros.md)
+- [Strings](./strings.md)
+- [Ponteiros](./ponteiros.md)
 
 # Criar uma chave ssh
 
