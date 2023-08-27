@@ -9,10 +9,10 @@ int x = 10;
 pont = &x;
 ```
 
-
+Exemplo| O que faz
 |----|---|
-|*p| Acessa o VALOR ou para alterar ou para pegar|
-|p| Acessa o ENDERECO ou para alterar ou para pegar|
+*p | Acessa o VALOR ou para alterar ou para pegar
+p  | Acessa o ENDERECO ou para alterar ou para pegar
 
 
 # Magias
