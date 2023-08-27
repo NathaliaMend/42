@@ -55,6 +55,7 @@ O final da string tem o char '\0'. Então vc pode fazer:
 
 - Se vc declarar
 ```c
+include <stdio.h>
         char txt[] = "amor";
 	int i = 0;
 
