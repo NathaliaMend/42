@@ -1,5 +1,8 @@
 # 42
 
+- Menu
+-- [Strings](./strings.md)
+
 # Criar uma chave ssh
 
 ```
