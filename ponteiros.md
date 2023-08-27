@@ -2,7 +2,7 @@
 
 Declarando
 
-```
+```c
 int *pont;
 int x = 10;
 
@@ -18,7 +18,7 @@ p  | Acessa o ENDERECO ou para alterar ou para pegar
 # Magias
 
 
-```
+```c
 int *pont;
 
 pont = 42; // Nao funciona pois o ponteiro ainda n aponta pra nenhuma VARIVAEL/ENDERECO
