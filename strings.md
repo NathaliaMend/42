@@ -16,7 +16,7 @@ int main (){
 ```
 
 - Chaves COM o tamanho
-```
+```c
 int main (){
     char text[4] = {'a','m','o','r'};
 }
@@ -31,15 +31,17 @@ int main (){
 
 ## Parametro de funcao (ASSINATURA)
 
-```
+```c
 int ft_algo (char text[]){
 }
 ```
+
 - Como se fosse ponteiro
-```
+```c
 void ft_algo(char *txt) {
 }
-``
+```
+
 # como saber quando a string acaba
 
 O final da string tem o char '\0'. Então vc pode fazer:
