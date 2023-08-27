@@ -1,3 +1,10 @@
+- O que é
+- Como declarar
+- [como saber quando a string acaba](#como-saber-quando-a-string-acaba)
+- [como saber o tamanho da string]()
+
+
+
 # O que é
 
 ARRAY de chars.
@@ -48,7 +55,7 @@ O final da string tem o char '\0'. Então vc pode fazer:
 
 - Se vc declarar
 ```c
-  char txt[] = "amor";
+        char txt[] = "amor";
 	int i = 0;
 
 	while (txt[i] != '\0') // Enquanto n for final da string
@@ -74,4 +81,14 @@ void ft_algo(char txt[])
 ```
 
 # como saber o tamanho da string
+```c
+#include <string.h>
+
+int main (){
+	char txt[] = "amor";
+	int tamanho;
+	tamanho = strlen(txt); // String lenght
+}
+
+```
 
