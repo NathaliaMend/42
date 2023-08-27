@@ -1,7 +1,7 @@
 - O que é
-- Como declarar
+- [Como declarar](#Como-declarar)
 - [como saber quando a string acaba](#como-saber-quando-a-string-acaba)
-- [como saber o tamanho da string]()
+- [como saber o tamanho da string](#como-saber-quando-a-string-acaba)
 
 
 
